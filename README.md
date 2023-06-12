@@ -1,6 +1,5 @@
 # Website-Project-Adhoc
 
-<--opinion piece-->
 This project was made using Bootstrap.   I had fun going trough the bootstrap’s documentation and exploring its vast array of components, utilities, and responsive design features. Bootstrap provided a solid foundation for building a visually appealing and responsive website, allowing me to create a professional and polished look without spending too much time on custom styling.
 
 One of the things I appreciated about Bootstrap was its grid system, which made it easy to create responsive layouts that adapt seamlessly to different screen sizes. Whether it was a desktop, tablet, or mobile device, the website's content adjusted perfectly, ensuring a consistent and user-friendly experience across various devices.
